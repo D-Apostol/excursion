@@ -1,4 +1,4 @@
-# excursion
+# Excursion
 Codecademy Excursion Project
 
 ## General Info
